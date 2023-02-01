@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantiroy&label=Profile%20views&color=0e75b6&style=flat" alt="sayantiroy" /> </p>
 
-- 🔭 I’m currently working on **An Exploration Performance-Efficiency and Knowledge Enhanced Text Classification using Probabilistic Latent Semantic**
+- 🔭 I’m currently working on ** Exploration Performance-Efficiency and Knowledge Enhanced Text Classification using Probabilistic Latent Semantic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
